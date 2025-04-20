@@ -1,2 +1,1 @@
-FrontEnd_React_Gis
-Sử dụng React và thư viện Leaflet 
+sử dụng nodejs và sql sever
